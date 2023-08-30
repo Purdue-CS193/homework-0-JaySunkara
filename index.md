@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Jay Sunkara's First CS193 Homework
+
+My favorite thinkgs about CS193:
+
+- The very cool TA's
+- Only 1 hour per week
+- Available PSO for extra help
+
+### Below is a guide of Github pages.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
