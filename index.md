@@ -25,6 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Testing out fonts here:
+
+
+This is a **Bold** statement.
+
+This is _my_ first Github website.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
